@@ -8,3 +8,4 @@
 
 ## MY GOAL
 - Build projects and develop collaboration skills
+- My next goal is to learn how to collaborate using branches and pull requests
